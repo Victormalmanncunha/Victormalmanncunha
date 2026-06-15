@@ -1,7 +1,7 @@
 # 👋 Oi! Eu sou Victor Malmann da Cunha
 
 ## Sobre mim
-- 🧑 Tenho 19 anos e estou cursando Desenvolvimento de Sistemas no SENAI.
+- 🧑 Tenho 20 anos e estou cursando Desenvolvimento de Sistemas no SENAI.
 - 🎮 Tenho interesse em jogos, arte, música, e programação.
 - 💻 Busco me desenvolver em programação e espero trabalhar com desenvolvimento web.
 
